@@ -1,0 +1,14 @@
+/* Theme */
+
+body {
+	background: #FFEB3B;
+	color: #1E1E1E;
+}
+
+nav a {
+	color: #1E1E1E;
+}
+
+nav a svg path{
+	fill: #1E1E1E;
+}
